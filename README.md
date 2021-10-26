@@ -1,0 +1,2 @@
+# ejerciciotriangulo
+Created with CodeSandbox
